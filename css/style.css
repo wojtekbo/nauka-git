@@ -4,14 +4,23 @@ body {
 h1 {
    font-size: 24px;
    font-style: bold;
+   margin-bottom: 10px;
 }
 h2 {
    font-size: 16px;
    font-style: italic;
+   margin-bottom: 40px;
 }
 p {
    font-size: 14px;
 }
-.container {
+.container p {
    width: 25%;
+}
+footer {
+   margin-top: 60px;
+}
+footer p {
+   font-size: 11px;
+   color: rgb(128, 128, 128);
 }
