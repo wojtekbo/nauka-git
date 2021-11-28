@@ -15,6 +15,7 @@ p {
    font-size: 14px;
 }
 .container p {
+   display: flex;
    width: 25%;
 }
 footer {
